@@ -23,6 +23,7 @@ La documentation est construire de manière à comprendre les processus à parti
 Prenons un exemple concret, le dossier **Outils de prise de vue** propose de fabriquer une **cabine photos**, ce projet requière des connaissances sur les rubans LED. Les 2 fiches éditées à ce sujet:  
 - l'une pour bien choisir son ruban LED et  
 - l'autre pour calculer l'alimentation adéquate.  
+
 Des liens vers ces fiches sont éditées dans chaque projets nécessitant des connaissances sur ces points. 
 <br>  
 
