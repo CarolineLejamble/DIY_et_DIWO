@@ -10,10 +10,10 @@ image_url: https://framapic.org/0rXoLVh4UUew/0S7622V2JY45.jpg
 ![](https://framapic.org/0rXoLVh4UUew/0S7622V2JY45.jpg)  
 <br>
 
-*Chez* *Open BioFabrics, nous utilisons des rubans LED comme système d’éclairage dans notre cabine photos ou encore pour les SCOBY Farmers. Ce produit est parfait pour créer des éclairages personnalisés. De plus, il consomme peu par rapport à un système d’éclairage dit “traditionnel”.* 
-
+*Chez* *Open BioFabrics, nous utilisons des rubans LED comme système d’éclairage dans notre cabine photos ou encore pour les SCOBY Farmers. Ce produit est parfait pour créer des éclairages personnalisés. De plus, il consomme peu par rapport à un système d’éclairage dit “traditionnel”.*      
 
 ----------
+<br>
 
 Après avoir cerner nos besoins en terme d’éclairage: pour l’intérieur ou l’extérieur, couleur de la lumière, intensité, humidité, avec ou sans variateur, LED monochrome ou de couleur, budget, … Le grand défis dans la quête du ruban Led débute avec le décryptage des caractéristiques du produit. Bien souvent ses données souvent incomplètes ou absentes. Etant novice dans le domaine, j’ai passé des heures à comparer des rubans LED, d’où cette note explicative qui je l’espère vous fera gagner du temps et du savoir. 
 
@@ -98,7 +98,7 @@ Rappel des autres types d’ampoules
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497445612853_01_Spiral_CFL_Bulb_2010-03-08_transparent_back.png)
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497445612204_Ampoule_halogene_morte_verso.jpg
-https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497445612070_361px-Gluehlampe_01_KMJ.png)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497445612070_361px-Gluehlampe_01_KMJ.png)
 
 
 
@@ -119,8 +119,8 @@ https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97
 - **Dimmable**: cette indication n’est pas présente dans le produit décrit, cependant elle mérite une explication. Dimmable veut dire qu’il est possible de faire varier l’intensité de la lumière. Tous les rubans LED ne supportent pas cette spécificité. Les dispositifs permettant la variation de l’intensité lumineuse se nomme dimmer (variateur, en anglais)
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497452624582_mld-5a-12-volt-dc-single-color-led-mini-dimmer-with-dynamic-modes-detail.jpg
-https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497452624600_led-dimmer-with-rotary-knob-12v-24v-2a.jpg)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497452624582_mld-5a-12-volt-dc-single-color-led-mini-dimmer-with-dynamic-modes-detail.jpg)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497452624600_led-dimmer-with-rotary-knob-12v-24v-2a.jpg)
 
 
 
@@ -134,7 +134,7 @@ https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97
 
 
 
-## Note sur l’alimentation
+### Note sur l’alimentation
 
 Le produit décrit au début est vendu sans source d’alimentation. Pour se simplifier la vie, il existe des kits de rubans LED prêt à l’emploi incluant: un adaptateur secteur,  interrupteur ON/OFF, variateur, télécommande,… 
 
@@ -143,12 +143,10 @@ Si vous préférez acheter séparément ou n’utiliser qu’une partie de votre
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_E8D2515FE48D56E475C31C8EAC09691AC4A8BD97847998D86C6C8311D4002803_1497446388441_Capture+decran+2017-06-14+a+15.19.36.png)
 
 
-
-
 ----------
 
 
-## Merci aux sources qui ont permis l’écriture de cet article
+### Merci aux sources qui ont permis l’écriture de cet article
 - [Dealabs](https://www.dealabs.com/forums/le-bar/le-laboratoire-high-tech--informatique/savoir-choisir-la-puissance-de-lalimentation-pour-des-rubans-de-led/16459)
 - [Ampoule LED](http://www.ampoule-leds.fr/informations-sur-les-ampoules-led-smd.phphttp://www.ampoule-leds.fr/informations-sur-les-ampoules-led-smd.php)
 - [Leds boutique](https://www.leds-boutique.fr/blog/5-intensite-d-eclairage-qu-est-ce-que-le-lumen-)
@@ -157,12 +155,12 @@ Si vous préférez acheter séparément ou n’utiliser qu’une partie de votre
 
 
 
-## Articles de la communauté Open BioFabrics qui pourraient vous intéresser
+### Articles de la communauté qui pourraient vous intéresser
 - [Choisir la bonne alimentation pour son ruban LED](/doc/Choisir-la-bonne-alimentation-pour-son-ruban-LED-iUZsBOIVPL2Z5m2Ncln6m)
 - Comment Souder un ruban LED waterproof
 
 
-## Projets réalisés avec des rubans LED chez Open BioFabrics
+### Projets réalisés avec des rubans LED chez Open BioFabrics
 - SCOBY Farmers
 - Cabine photo
 
